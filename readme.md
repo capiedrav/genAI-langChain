@@ -1,0 +1,1 @@
+# Follow along for the Book [Generative AI with LangChain - 2nd Edition](https://www.amazon.com/Generative-LangChain-production-ready-applications-LangGraph/dp/1837022011/?_encoding=UTF8)
