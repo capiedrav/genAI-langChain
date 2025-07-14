@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="genAI_langChain" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="genAI_langChain" project-jdk-type="Python SDK" />
 </project>
